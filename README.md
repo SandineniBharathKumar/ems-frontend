@@ -1,16 +1,133 @@
-# React + Vite
+# Employee Management System (EMS) - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A Full-Stack Employee Management System built using React.js, Spring Boot, MySQL, and REST APIs. The application provides complete CRUD functionality for managing employee records through a responsive and user-friendly interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Demo
 
-## React Compiler
+Frontend:
+[Live Frontend Application](https://ems-frontend-tyy2.onrender.com/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Backend API:
+[Backend API](https://ems-backend-production-5a36.up.railway.app/api/employees)
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Features
+
+- View all employees
+- Add new employees
+- Update employee details
+- Delete employee records
+- Responsive user interface
+- REST API integration using Axios
+- Full CRUD functionality
+
+---
+
+## Tech Stack
+
+### Frontend
+
+- React.js
+- Vite
+- Axios
+- JavaScript
+- HTML5
+- CSS3
+
+### Backend
+
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- MySQL
+- Maven
+
+### Deployment
+
+- Frontend: Render
+- Backend: Railway
+- Database: Railway MySQL
+
+---
+
+## Project Structure
+
+```
+src
+│
+├── components
+├── services
+├── App.jsx
+├── main.jsx
+└── assets
+```
+
+---
+
+## Screenshots
+
+### Employee List Page
+
+<img width="1912" height="972" alt="Employee List Page"
+src="YOUR_IMAGE_LINK" />
+
+### Add Employee Page
+
+<img width="1917" height="967" alt="Add Employee Page"
+src="YOUR_IMAGE_LINK" />
+
+### Update Employee Page
+
+<img width="1907" height="970" alt="Update Employee Page"
+src="YOUR_IMAGE_LINK" />
+---
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/SandineniBharathKumar/ems-frontend.git
+```
+
+Navigate to the project:
+
+```bash
+cd ems-frontend
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+---
+
+## Backend Repository
+
+https://github.com/SandineniBharathKumar/ems-backend
+
+---
+
+## Author
+
+Sandineni Bharath Kumar
+
+GitHub:
+https://github.com/SandineniBharathKumar
+
+---
+
+## License
+
+This project was developed for learning and portfolio purposes.
