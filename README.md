@@ -71,18 +71,18 @@ src
 
 ### Employee List Page
 
-<img width="1912" height="972" alt="Employee List Page"
-src="YOUR_IMAGE_LINK" />
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/f4a8986b-82d6-42cf-9536-77aba3077299" />
+
 
 ### Add Employee Page
 
-<img width="1917" height="967" alt="Add Employee Page"
-src="YOUR_IMAGE_LINK" />
+<img width="1912" height="906" alt="image" src="https://github.com/user-attachments/assets/5663a516-7e89-43a3-a4bc-a33f1c34df8d" />
+
 
 ### Update Employee Page
 
-<img width="1907" height="970" alt="Update Employee Page"
-src="YOUR_IMAGE_LINK" />
+<img width="1911" height="908" alt="image" src="https://github.com/user-attachments/assets/a87f1d6e-17ae-4aef-8078-b4df9c7ea36c" />
+
 ---
 
 ## Getting Started
