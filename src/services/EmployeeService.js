@@ -1,6 +1,7 @@
 import axios from "axios"
 
-const REST_API_BASE_URL="https://ems-backend-production-5a36.up.railway.app/api/employees"
+
+const REST_API_BASE_URL="https://ems-backend-b539.onrender.com/api/employees"
 
 export const listEmployees = () =>  axios.get(REST_API_BASE_URL);
 
